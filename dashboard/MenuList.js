@@ -1,4 +1,4 @@
-endpoint = `https://api.vandien.dev`
+endpoint = `https://docs-api.hoangquangtuong.repl.co`
 message_list = [
 {
     icon: 'fa-solid fa-star-exclamation',
@@ -246,7 +246,7 @@ item_list = [{
             },
             {
                 "event": "NEW",
-                "url": '/media/convert?url=https://api.vandien.dev/text-to-speech?text=xin%20chào&lang=vi-vn',
+                "url": '/media/convert?url=https://docs-api.hoangquangtuong.repl.co/text-to-speech?text=xin%20chào&lang=vi-vn',
                 "name": "Hide Url File",
                 "method": "GET",
                 "id": "_32",
